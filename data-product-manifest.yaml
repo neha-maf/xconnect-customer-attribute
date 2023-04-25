@@ -14,7 +14,7 @@ inputPorts:
     extra: {}
     syncType: 'pull'
     type: 'dataproduct'
-    dataProductUrn: urn:dv:dataproduct:eb1498e1-c2fe-4b2e-942a-ed4682e3227c
+    dataProductUrn: urn:dv:dataproduct:7eef7d1f-4060-4ff9-a9a1-78d9346bfb4c
     projection:
       - id
       - rfm_st_code_name
